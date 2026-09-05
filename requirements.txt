@@ -1,0 +1,7 @@
+streamlit
+plotly
+pandas
+xgboost
+requests
+langchain-core
+langchain-groq
