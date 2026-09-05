@@ -1,6 +1,7 @@
 streamlit
 plotly
 pandas
+scikit-learn
 xgboost
 requests
 langchain-core
