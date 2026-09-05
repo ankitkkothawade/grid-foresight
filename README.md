@@ -1,10 +1,10 @@
-# \u26a1 Grid Foresight
+# Grid Foresight
 
 **UK electricity demand forecasting, benchmarked directly against the grid operator's own forecast, with an LLM briefing layer that explains the numbers instead of just reporting them.**
 
-\u2192 **[Live demo](INSERT-YOUR-STREAMLIT-URL-HERE)**
+**[Live demo](https://grid-foresight-2hmlbndrwlmkeyz3kqxhwe.streamlit.app/)**
 
-\u2192 *[Add a screenshot or short GIF of the app here \u2014 the chart + briefing panel together is the strongest single image for this project]*
+*[Add a screenshot or short GIF of the app here \u2014 the chart + briefing panel together is the strongest single image for this project]*
 
 ---
 
