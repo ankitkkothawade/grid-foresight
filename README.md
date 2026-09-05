@@ -4,8 +4,6 @@
 
 **[Live demo](https://grid-foresight-2hmlbndrwlmkeyz3kqxhwe.streamlit.app/)**
 
-*[Add a screenshot or short GIF of the app here \u2014 the chart + briefing panel together is the strongest single image for this project]*
-
 ---
 
 ## The headline result
